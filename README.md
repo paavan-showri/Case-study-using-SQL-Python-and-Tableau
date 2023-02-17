@@ -12,4 +12,4 @@ The business problem is to analyse a telecom company that is concerned about los
 -   Then another function was created to tag the customers into high- and low-LTV groups.
 
 -   Created multiple dashboards on the different services and their relation with contract, total charges (LTVs), monthly charges, tenure, and churn.
--   Finally, we created a Tableau story with all the dashboards created so far.
+-   Finally, a Tableau story was created with all the dashboards created so far.
