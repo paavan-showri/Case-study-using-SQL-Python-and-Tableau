@@ -15,7 +15,9 @@ The business problem is to analyse a telecom company that is concerned about los
 -   Finally, a Tableau story was created with all the dashboards created so far.
 
 
-![Churn Database|100*100](https://user-images.githubusercontent.com/118935216/219642009-d114ea75-00ab-41b3-9971-c563b4dbd4b8.jpg)
+<h3>Churn Database</h3>
+
+<img src="https://user-images.githubusercontent.com/118935216/219642009-d114ea75-00ab-41b3-9971-c563b4dbd4b8.jpg" height="400">
 
 ### [Business Story in Tableau](https://paavan-showri.github.io/Case-study-using-SQL-Python-and-Tableau/)
 
