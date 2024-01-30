@@ -8,8 +8,8 @@ const url = "https://public.tableau.com/views/CaseStudyofCustomerChurninTelecomI
 const vizContainer = document.getElementById('vizContainer');
 const options = {
     hideTabs: true,
-    height: 1080,
-    width: 1920,
+    height: 900,
+    width: 1600,
     onFirstInteraction: function() {
         workbook = viz.getWorkbook();
         activeSheet = workbook.getActiveSheet();
